@@ -1,4 +1,4 @@
-![logo](https://github.com/RupeshShandilya/RupeshShandilya/blob/main/bg.png)
+![logo](https://github.com/AbhinavChangil/AbhinavChangil/blob/main/bg.png)
 
 <h1 align="center">Hi there,I'm Abhinav Changi 👋</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -49,7 +49,7 @@
   
  <img src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
       
-  <img src="https://img.shields.io/badge/FIGMA-239120?&style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> ̰
+  <img src="https://img.shields.io/badge/FIGMA-239120?&style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
   
   
   
